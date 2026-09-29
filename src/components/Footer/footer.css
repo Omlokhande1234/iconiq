@@ -1,0 +1,16 @@
+.footer-link {
+  width: fit-content;
+  color: #4a6282;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 13.5px;
+  line-height: 1.5;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.footer-link:hover {
+  color: #082e63;
+  transform: translateX(3px);
+}

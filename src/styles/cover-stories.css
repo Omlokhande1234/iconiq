@@ -1,0 +1,10 @@
+.cover-stories-section,
+.cover-stories-section * {
+  box-sizing: border-box;
+}
+
+.cover-stories-section {
+  width: 100%;
+  background: #ffffff;
+  color: #082e63;
+}
